@@ -13,6 +13,12 @@ I'm Haad Cheema, a passionate computer science student and web developer with a 
 - **Frameworks & Libraries:** React, Node.js
 - **Tools:** Git, HeidiSQL, GitHub, GitLab
 
+  ## 📊 GitHub Stats
+
+![Haad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haad1000&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haad1000&layout=compact&theme=radical)
+
+
 ## 🌐 Connect with Me
 
 - **Email:** [haad736@gmail.com](mailto:haad736@gmail.com)
